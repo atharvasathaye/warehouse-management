@@ -1,5 +1,8 @@
 # Warehouse Management System
 
+> [!NOTE]
+> 🚧 This repository is a planned project. Implementation has not yet started. See the README below for the intended design.
+
 Warehouse management system designed to track inventory levels, organize bin locations, process incoming shipments, and optimize order picking workflows.
 
 ## Overview
